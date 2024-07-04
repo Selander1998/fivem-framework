@@ -27,7 +27,7 @@ If you have no experience with LUA, this will not function as a plug-and-play re
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
